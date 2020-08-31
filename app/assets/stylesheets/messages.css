@@ -63,17 +63,17 @@
   justify-content: space-between;
 }
 
-.chat-room-name {
+.header-title {
   color: #333;
   font-size: 24px;
   margin-top: 36px;
 }
 
-.chat-end {
+.header-button {
   margin-top: 40px;
 }
 
-.chat-end a {
+.header-button a {
   text-decoration: none;
   border: 1px solid darkred;
   color: darkred;
